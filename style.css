@@ -1,0 +1,22 @@
+*{background-color: coral;} 
+
+#Elements{
+    font-size: 40px;
+    text-align: center;
+    font-family: cursive;
+    color: aquamarine;}
+    
+h1{
+    font-size: 32px;
+    text-align: center;}
+h2{
+    margin: 20px;
+}    
+    
+h3{
+    margin: 40px;
+}
+
+h4{
+    text-align: end;
+}
